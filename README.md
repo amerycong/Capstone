@@ -1,4 +1,7 @@
 # Capstone Project
+
+Note: abstract can be found [here](http://www.ece.neu.edu/sites/default/files/pdfs/ece/capstone_design_abstracts_spring_2016_0.pdf) under "Eos Link". Neil took some pictures throughout the project shown [here](http://www.neildave.org/#/pneumatic-augmented-reality-tactile-feedback-system/)
+
 Teddy, Sasha, Sean, Neil, Amery
 
 ### Developer Setup Instructions
